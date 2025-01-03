@@ -1,0 +1,5 @@
+Regular Dependency : A dependency is called Regular Dependency if the working of the application or the code which we are writing, depends on that package.
+Development Dependency : A dependency is called Development Dependency, if that package if only required for the development purpose, and on which the working of our application does not depends.
+
+Example of Regular Dependency : express
+EXample of Development Dependency : nodemon
