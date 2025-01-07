@@ -1,0 +1,1 @@
+In Node, the Event Loop is a mechanism that handles asynchronous operations. It allows Node to perform non-blocking I/O operations despite the fact that JavaScript is single-threaded. It continuously checks the call stack and message queue, executes tasks from stack processing asynchronous operations.
